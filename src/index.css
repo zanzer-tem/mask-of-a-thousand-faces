@@ -47,7 +47,7 @@ a:hover {
   grid-template-areas: "header header header header header"
                       ". . main . ."
                       ". . footer . .";
-                      justify-items: center;
+  justify-items: center;
 }
 
 header{
@@ -65,10 +65,10 @@ footer{
 .main{
   grid-area: main;
   text-align: center;
- 
+  display: grid;
+  justify-items: center;
 }
 .mask-of-a-thousand-faces{
- 
   border: 2px solid black;
   background-image: radial-gradient(#999, #666);
   width:275px;

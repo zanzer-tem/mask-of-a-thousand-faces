@@ -10,11 +10,19 @@ function App() {
       </header>
       <main className="main">
           <h3>Mask of a Thousand Faces</h3>
-          <p>NPC avatar generator.</p>
+          
           <div class="mask-of-a-thousand-faces">
-
           </div>
-          <p>Randomize</p>
+          <div>
+            <p>
+            <em>
+              'Whoever looks into the mirror of the water will see first of all his own face. 
+              Whoever goes to himself risks a confrontation with himself. 
+              The mirror does not flatter, it faithfully shows whatever looks into it; namely, the face we never show to the world because we cover it with the persona, the mask of the actor. 
+              But the mirror lies behind the mask and shows the true face.'
+              </em><b> - Carl Jung</b>
+            </p>
+          </div>
       </main>
       <footer>
           Copyright © 2020 <a href="https://zanzer-tem.github.io/zanzers-dungeon/" title="Link to Zanzer's Dungeon; Dungeon Master tools">Zanzer's Dungeon</a>. All rights reserved. 
