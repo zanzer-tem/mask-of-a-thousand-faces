@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mask-of-a-thousand-faces/precache-manifest.96872d81af21f6ee95291a6f3f0bbe6d.js"
+  "/mask-of-a-thousand-faces/precache-manifest.b3ae41de91c84ed60597ffa915b37b0c.js"
 );
 
 self.addEventListener('message', (event) => {
