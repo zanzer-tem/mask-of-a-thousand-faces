@@ -21,8 +21,8 @@ class MaskOfAThousandFaces extends React.Component {
         const canvas = this.canvasReference.current;
         this.setState({ctx: canvas.getContext("2d")});
         this.setState({totalImages: 2});
-        this.loadImage(0,'/images/g_m_w_torso.png');
-        this.loadImage(1,'/images/g_m_w_head2.png');
+       // this.loadImage(0,'/images/g_m_w_torso.png');
+       // this.loadImage(1,'/images/g_m_w_head2.png');
     }
 
 
@@ -44,8 +44,8 @@ class MaskOfAThousandFaces extends React.Component {
 
         // flip context horizontally
         //this.state.ctx.scale(-1, 1);
-        this.state.ctx.drawImage(this.state.images.get(0),0,0);
-        this.state.ctx.drawImage(this.state.images.get(1),0,0);
+       // this.state.ctx.drawImage(this.state.images.get(0),0,0);
+        //this.state.ctx.drawImage(this.state.images.get(1),0,0);
     }
 
     
