@@ -73,6 +73,13 @@ footer{
   background-image: radial-gradient(#999, #666);
   width:275px;
   height:350px;
+  text-align:left;
+}
+
+.mask-of-a-thousand-faces img{
+  /* position: absolute;
+  padding-left:15px;*/
+  display:none;
 }
 
 

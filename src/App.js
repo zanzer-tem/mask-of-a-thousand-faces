@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-
+import MaskOfAThousandFaces from './MaskOfAThousandFaces';
 function App() {
   return (
     <div className="container">
@@ -10,9 +10,7 @@ function App() {
       </header>
       <main className="main">
           <h3>Mask of a Thousand Faces</h3>
-          
-          <div class="mask-of-a-thousand-faces">
-          </div>
+          <MaskOfAThousandFaces/>
           <div>
             <p>
             <em>

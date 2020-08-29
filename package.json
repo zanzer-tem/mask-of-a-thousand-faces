@@ -2,11 +2,12 @@
   "name": "mask-of-a-thousand-faces",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zanzer-tem.github.io/mask-of-a-thousand-faces",
+  "homepage": "http://mask-of-a-thousand-faces.zanzersdungeon.com",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "jimp": "^0.16.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
