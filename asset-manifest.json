@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/zanzer-tem/mask-of-a-thousand-faces/static/css/main.b2862c29.chunk.css",
-    "main.js": "/zanzer-tem/mask-of-a-thousand-faces/static/js/main.4bda0ca1.chunk.js",
-    "main.js.map": "/zanzer-tem/mask-of-a-thousand-faces/static/js/main.4bda0ca1.chunk.js.map",
-    "runtime-main.js": "/zanzer-tem/mask-of-a-thousand-faces/static/js/runtime-main.759ea2c9.js",
-    "runtime-main.js.map": "/zanzer-tem/mask-of-a-thousand-faces/static/js/runtime-main.759ea2c9.js.map",
-    "static/css/2.c8b4cdf6.chunk.css": "/zanzer-tem/mask-of-a-thousand-faces/static/css/2.c8b4cdf6.chunk.css",
-    "static/js/2.a5359f58.chunk.js": "/zanzer-tem/mask-of-a-thousand-faces/static/js/2.a5359f58.chunk.js",
-    "static/js/2.a5359f58.chunk.js.map": "/zanzer-tem/mask-of-a-thousand-faces/static/js/2.a5359f58.chunk.js.map",
-    "index.html": "/zanzer-tem/mask-of-a-thousand-faces/index.html",
-    "precache-manifest.3c237fa8c7b132644e944de9b005c718.js": "/zanzer-tem/mask-of-a-thousand-faces/precache-manifest.3c237fa8c7b132644e944de9b005c718.js",
-    "service-worker.js": "/zanzer-tem/mask-of-a-thousand-faces/service-worker.js",
-    "static/css/2.c8b4cdf6.chunk.css.map": "/zanzer-tem/mask-of-a-thousand-faces/static/css/2.c8b4cdf6.chunk.css.map",
-    "static/css/main.b2862c29.chunk.css.map": "/zanzer-tem/mask-of-a-thousand-faces/static/css/main.b2862c29.chunk.css.map",
-    "static/js/2.a5359f58.chunk.js.LICENSE.txt": "/zanzer-tem/mask-of-a-thousand-faces/static/js/2.a5359f58.chunk.js.LICENSE.txt"
+    "main.css": "/mask-of-a-thousand-faces/static/css/main.b2862c29.chunk.css",
+    "main.js": "/mask-of-a-thousand-faces/static/js/main.605ffd36.chunk.js",
+    "main.js.map": "/mask-of-a-thousand-faces/static/js/main.605ffd36.chunk.js.map",
+    "runtime-main.js": "/mask-of-a-thousand-faces/static/js/runtime-main.c83b34d3.js",
+    "runtime-main.js.map": "/mask-of-a-thousand-faces/static/js/runtime-main.c83b34d3.js.map",
+    "static/css/2.c8b4cdf6.chunk.css": "/mask-of-a-thousand-faces/static/css/2.c8b4cdf6.chunk.css",
+    "static/js/2.a5359f58.chunk.js": "/mask-of-a-thousand-faces/static/js/2.a5359f58.chunk.js",
+    "static/js/2.a5359f58.chunk.js.map": "/mask-of-a-thousand-faces/static/js/2.a5359f58.chunk.js.map",
+    "index.html": "/mask-of-a-thousand-faces/index.html",
+    "precache-manifest.ee7d7f1107c7ded288fa0d21c23f47dc.js": "/mask-of-a-thousand-faces/precache-manifest.ee7d7f1107c7ded288fa0d21c23f47dc.js",
+    "service-worker.js": "/mask-of-a-thousand-faces/service-worker.js",
+    "static/css/2.c8b4cdf6.chunk.css.map": "/mask-of-a-thousand-faces/static/css/2.c8b4cdf6.chunk.css.map",
+    "static/css/main.b2862c29.chunk.css.map": "/mask-of-a-thousand-faces/static/css/main.b2862c29.chunk.css.map",
+    "static/js/2.a5359f58.chunk.js.LICENSE.txt": "/mask-of-a-thousand-faces/static/js/2.a5359f58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.759ea2c9.js",
+    "static/js/runtime-main.c83b34d3.js",
     "static/css/2.c8b4cdf6.chunk.css",
     "static/js/2.a5359f58.chunk.js",
     "static/css/main.b2862c29.chunk.css",
-    "static/js/main.4bda0ca1.chunk.js"
+    "static/js/main.605ffd36.chunk.js"
   ]
 }
